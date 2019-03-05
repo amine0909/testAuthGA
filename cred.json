@@ -1,0 +1,12 @@
+{
+    "web": {
+        "client_id": "251646880979-508i4ekern9enqloa2q9lvs3e1ddi2ui.apps.googleusercontent.com",
+        "project_id": "jeuneafrique-staging",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "-ANS-TEk1pkK4m4RSjFf3dyZ",
+        "redirect_uris": ["https://www.jeuneafrique.com", "https://localhost:3000"],
+        "javascript_origins": ["https://localhost:3000"]
+    }
+}
